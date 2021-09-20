@@ -1,0 +1,2 @@
+I created a project that would turn the lamp on and off with my mobile using bluetooth module and arduino. The code was almost my own.
+In mobile i just used free bluetooth terminal app that were in the playstore. 
